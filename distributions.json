@@ -1,0 +1,44 @@
+[
+  {
+    "source": "/downloads/chess-tournament-manager-pro-1.2.100-macos-arm64.pkg",
+    "tag": "desktop-1.2.100",
+    "sha256": "58eb27426bdeb6cefaf310a51e2105eea84141b61edfceec7ac55dfb809b1626",
+    "size": 122799785
+  },
+  {
+    "source": "/downloads/chess-tournament-manager-pro-1.2.100-windows-x64-early-access.msi",
+    "tag": "desktop-1.2.100",
+    "sha256": "6cc95f6f144b5eab47cfe2faa4d881867f986134c39795a11095fb8d999af13d",
+    "size": 114680951
+  },
+  {
+    "source": "/downloads/chess-tournament-manager-pro-1.2.101-windows-x64-early-access.msi",
+    "tag": "desktop-1.2.101",
+    "sha256": "3872fe462dfdd3195d376d2b3a3f09487b20f1d37f7129cd5a43ad0f345f1c79",
+    "size": 114680951
+  },
+  {
+    "source": "/downloads/chess-tournament-manager-pro-1.2.99-macos-arm64.pkg",
+    "tag": "desktop-1.2.99",
+    "sha256": "6dab059f906a59e658d323325da985c0d1dbc9b62e3ea1e2686c49d34a86554e",
+    "size": 135840858
+  },
+  {
+    "source": "/updates/macos-arm64/chess-tournament-manager-pro-1.2.100-macos-arm64-release.zip",
+    "tag": "desktop-1.2.100",
+    "sha256": "a006fbf692e9baee2dbf12a57e224b6495ef508bf733e9875d98872b073a3aaf",
+    "size": 123089907
+  },
+  {
+    "source": "/updates/macos-arm64/chess-tournament-manager-pro-1.2.99-macos-arm64-release.zip",
+    "tag": "desktop-1.2.99",
+    "sha256": "a51d429aad819a556567cc2ad23d9043734c6def10af937030bd7f3fd953156e",
+    "size": 136129732
+  },
+  {
+    "source": "/updates/sparkle-test/macos-arm64/chess-tournament-manager-pro-1.2.98-macos-arm64-release.zip",
+    "tag": "desktop-1.2.98",
+    "sha256": "a499d5511afb4f90cdcef0330afe4390b52a95d56c996b0463cc154e79e8f9b3",
+    "size": 136129719
+  }
+]
